@@ -91,7 +91,6 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 <img width="1904" height="801" alt="Screenshot 2026-11-21 124803" src="https://github.com/user-attachments/assets/5fc5d752-70c8-435c-97fb-076b15236395" />
 
 ## Result
-
 Thus, the 2:1 Multiplexer and 1:2 Demultiplexer were designed, implemented using Verilog HDL, successfully simulated using Synopsys VCS, and verified using Synopsys DVE.
 
 
